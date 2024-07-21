@@ -28,7 +28,7 @@ function LoadMedicinesData() {
                     <td>${v.minAge}</td>
                     <td>
                         <a href="/Medicine/Edit?mid=${v.id}">Edit</a>
-                        <a href="/Medicine/Delete?mid=${v.id}">Delete</a>
+                        <a onclick="confirmDelete(event)" href="/Medicine/Delete?mid=${v.id}">Delete</a>
                     </td>
                 </tr>`;
             });

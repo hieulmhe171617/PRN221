@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FPTU\\Hocki7\\PRN221\\Project\\Github\\PRN221_2\\PRN221\\OnlineMedicine\\OnlineMedicine.csproj": {}
+    "C:\\Users\\ADMIN\\Desktop\\PRN221\\PRN221\\OnlineMedicine\\OnlineMedicine.csproj": {}
   },
   "projects": {
-    "D:\\FPTU\\Hocki7\\PRN221\\Project\\Github\\PRN221_2\\PRN221\\OnlineMedicine\\OnlineMedicine.csproj": {
+    "C:\\Users\\ADMIN\\Desktop\\PRN221\\PRN221\\OnlineMedicine\\OnlineMedicine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPTU\\Hocki7\\PRN221\\Project\\Github\\PRN221_2\\PRN221\\OnlineMedicine\\OnlineMedicine.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\PRN221\\PRN221\\OnlineMedicine\\OnlineMedicine.csproj",
         "projectName": "OnlineMedicine",
-        "projectPath": "D:\\FPTU\\Hocki7\\PRN221\\Project\\Github\\PRN221_2\\PRN221\\OnlineMedicine\\OnlineMedicine.csproj",
-        "packagesPath": "C:\\Users\\84338\\.nuget\\packages\\",
-        "outputPath": "D:\\FPTU\\Hocki7\\PRN221\\Project\\Github\\PRN221_2\\PRN221\\OnlineMedicine\\obj\\",
+        "projectPath": "C:\\Users\\ADMIN\\Desktop\\PRN221\\PRN221\\OnlineMedicine\\OnlineMedicine.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Desktop\\PRN221\\PRN221\\OnlineMedicine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\84338\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -79,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
