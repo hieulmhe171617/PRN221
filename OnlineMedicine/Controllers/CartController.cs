@@ -257,13 +257,13 @@ namespace OnlineMedicine.Controllers
                     //If executed payment failed then we will show payment failure message to user  
                     if (executedPayment.state.ToLower() != "approved")
                     {
-                        return View("FailureView");
+                        return RedirectToAction("FailureView");
                     }
                 }
             }
             catch (Exception ex)
             {
-                return View("FailureView");
+                return RedirectToAction("FailureView");
             }
             //on successful payment, show success page to user.  
             return RedirectToAction("CheckOut");

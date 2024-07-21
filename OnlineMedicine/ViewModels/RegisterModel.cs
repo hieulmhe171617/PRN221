@@ -17,7 +17,9 @@ namespace OnlineMedicine.ViewModels
         public string RepeatPassword { get; set; }
         [Required]
         public string Address { get; set; }
-        [Required, MinLength(8), MaxLength(10)]
+        [Required(ErrorMessage = "Phone number is required."), MinLength(8), MaxLength(10)]
+        [RegularExpression(@"^\d+$", ErrorMessage = "Phone number must contain only digits.")]
+        [StringLength(10, ErrorMessage = "Phone number cannot be longer than 10 digits.")]
         [Display(Name = "Phone Number")]
         public string PhoneNumber { get; set; }
     }
