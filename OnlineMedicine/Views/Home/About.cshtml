@@ -1,0 +1,91 @@
+﻿@{
+    ViewData["Title"] = "About Us";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"] - Medicine and Dietary Supplements Store</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 0;
+            color: #333;
+        }
+
+        h1, h2, h3 {
+            color: #007bff;
+        }
+
+        h1 {
+            margin-bottom: 20px;
+        }
+
+        p {
+            margin-bottom: 15px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .section {
+            margin-bottom: 30px;
+        }
+
+        .map {
+            width: 100%;
+            height: 400px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>@ViewData["Title"]</h1>
+
+        <div class="section">
+            <h2>1. Our Mission</h2>
+            <p>Welcome to our online store! Our mission is to provide high-quality medicines and dietary supplements to improve your health and well-being. We are dedicated to offering a wide range of products to meet your health needs, backed by excellent customer service and support.</p>
+        </div>
+
+        <div class="section">
+            <h2>2. Our Story</h2>
+            <p>Founded with the goal of making health products more accessible, we started as a small team passionate about health and wellness. Over the years, we have grown and expanded our product range, always keeping customer satisfaction as our top priority.</p>
+        </div>
+
+        <div class="section">
+            <h2>3. Our Values</h2>
+            <p>We are committed to:</p>
+            <ul>
+                <li>Providing high-quality and safe products.</li>
+                <li>Ensuring customer satisfaction with excellent service.</li>
+                <li>Maintaining transparency in all our transactions.</li>
+                <li>Continually improving our services based on customer feedback.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>4. Our Team</h2>
+            <p>Our team consists of dedicated professionals with extensive experience in the healthcare and e-commerce industries. We work together to ensure that you receive the best products and services possible.</p>
+        </div>
+
+        <div class="section">
+            <h2>5. Contact Us</h2>
+            <p>If you have any questions or need assistance, please reach out to us via email at: <a href="mailto:support@example.com">support@example.com</a> or call us at: <strong>+84 123 456 789</strong>.</p>
+        </div>
+
+        <div class="section">
+            <h2>6. Our Location</h2>
+            <p>We are located at:</p>
+            <p>FPT University, Hanoi, Vietnam</p>
+            <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3723.560093697291!2d105.80498061440503!3d21.013694585925568!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ab7b5ed3724b%3A0x8725c2c44aeb8a6!2sFPT%20University!5e0!3m2!1sen!2s!4v1673313020850!5m2!1sen!2s" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        </div>
+    </div>
+</body>
+</html>

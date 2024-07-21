@@ -1,0 +1,514 @@
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\appsettings.Development.json
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\appsettings.json
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.staticwebassets.runtime.json
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.exe
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.deps.json
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.runtimeconfig.json
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.pdb
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Humanizer.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.csproj.AssemblyReference.cache
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.AssemblyInfoInputs.cache
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.AssemblyInfo.cs
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.csproj.CoreCompileInputs.cache
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.MvcApplicationPartsAssemblyInfo.cache
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.RazorAssemblyInfo.cache
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.RazorAssemblyInfo.cs
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets\msbuild.OnlineMedicine.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets\msbuild.build.OnlineMedicine.props
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OnlineMedicine.props
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OnlineMedicine.props
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets.pack.json
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets.build.json
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets.development.json
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\scopedcss\bundle\OnlineMedicine.styles.css
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\scopedcss\projectbundle\OnlineMedicine.bundle.scp.css
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.csproj.CopyComplete
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\refint\OnlineMedicine.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.pdb
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.genruntimeconfig.cache
+D:\FPTU\Hocki5\PRN211\ProjectG6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\ref\OnlineMedicine.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\appsettings.Development.json
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\appsettings.json
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.staticwebassets.runtime.json
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.exe
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.deps.json
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.runtimeconfig.json
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.pdb
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Humanizer.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\PayPal.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.csproj.AssemblyReference.cache
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.GeneratedMSBuildEditorConfig.editorconfig
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.AssemblyInfoInputs.cache
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.AssemblyInfo.cs
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.csproj.CoreCompileInputs.cache
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.MvcApplicationPartsAssemblyInfo.cache
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.RazorAssemblyInfo.cache
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.RazorAssemblyInfo.cs
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets\msbuild.OnlineMedicine.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets\msbuild.build.OnlineMedicine.props
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OnlineMedicine.props
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OnlineMedicine.props
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets.pack.json
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets.build.json
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets.development.json
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\scopedcss\bundle\OnlineMedicine.styles.css
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\scopedcss\projectbundle\OnlineMedicine.bundle.scp.css
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.csproj.CopyComplete
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\refint\OnlineMedicine.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.pdb
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.genruntimeconfig.cache
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\ref\OnlineMedicine.dll
+D:\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\web.config
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\web.config
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\appsettings.json
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.staticwebassets.runtime.json
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.exe
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.deps.json
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.runtimeconfig.json
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.pdb
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Humanizer.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\PayPal.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.csproj.AssemblyReference.cache
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.AssemblyInfoInputs.cache
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.AssemblyInfo.cs
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.csproj.CoreCompileInputs.cache
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.RazorAssemblyInfo.cache
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.RazorAssemblyInfo.cs
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets\msbuild.OnlineMedicine.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets\msbuild.build.OnlineMedicine.props
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OnlineMedicine.props
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OnlineMedicine.props
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\scopedcss\bundle\OnlineMedicine.styles.css
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\scopedcss\projectbundle\OnlineMedicine.bundle.scp.css
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.csproj.CopyComplete
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\refint\OnlineMedicine.dll
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.pdb
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.genruntimeconfig.cache
+D:\Projects\.NET MVC\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\ref\OnlineMedicine.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\web.config
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.staticwebassets.runtime.json
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.exe
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.deps.json
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.runtimeconfig.json
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.pdb
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\PayPal.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.AssemblyInfo.cs
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.RazorAssemblyInfo.cache
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.RazorAssemblyInfo.cs
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets\msbuild.OnlineMedicine.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets\msbuild.build.OnlineMedicine.props
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OnlineMedicine.props
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OnlineMedicine.props
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\scopedcss\bundle\OnlineMedicine.styles.css
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\scopedcss\projectbundle\OnlineMedicine.bundle.scp.css
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.csproj.CopyComplete
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\refint\OnlineMedicine.dll
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.pdb
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.genruntimeconfig.cache
+C:\Users\Admin\Documents\Zalo Received Files\SE1735-G6\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\ref\OnlineMedicine.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\web.config
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.staticwebassets.runtime.json
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.exe
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.deps.json
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.runtimeconfig.json
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.pdb
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\PayPal.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.AssemblyInfo.cs
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.RazorAssemblyInfo.cache
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.RazorAssemblyInfo.cs
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets\msbuild.OnlineMedicine.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets\msbuild.build.OnlineMedicine.props
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OnlineMedicine.props
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OnlineMedicine.props
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\scopedcss\bundle\OnlineMedicine.styles.css
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\scopedcss\projectbundle\OnlineMedicine.bundle.scp.css
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.csproj.CopyComplete
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\refint\OnlineMedicine.dll
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.pdb
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.genruntimeconfig.cache
+C:\Users\Admin\Downloads\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\ref\OnlineMedicine.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\web.config
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\appsettings.Development.json
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\appsettings.json
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.staticwebassets.runtime.json
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.exe
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.deps.json
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.runtimeconfig.json
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.pdb
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Humanizer.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\PayPal.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.csproj.AssemblyReference.cache
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.AssemblyInfoInputs.cache
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.AssemblyInfo.cs
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.csproj.CoreCompileInputs.cache
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.MvcApplicationPartsAssemblyInfo.cache
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.RazorAssemblyInfo.cache
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.RazorAssemblyInfo.cs
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets\msbuild.OnlineMedicine.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets\msbuild.build.OnlineMedicine.props
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OnlineMedicine.props
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OnlineMedicine.props
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets.pack.json
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets.build.json
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets.development.json
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\scopedcss\bundle\OnlineMedicine.styles.css
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\scopedcss\projectbundle\OnlineMedicine.bundle.scp.css
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.csproj.CopyComplete
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\refint\OnlineMedicine.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.pdb
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.genruntimeconfig.cache
+D:\FPTU\Hocki5\PRN211\ProjectG6\NewClone\SE1735_Group6_Project\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\ref\OnlineMedicine.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\web.config
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\appsettings.Development.json
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\appsettings.json
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.staticwebassets.runtime.json
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.exe
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.deps.json
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.runtimeconfig.json
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\OnlineMedicine.pdb
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Humanizer.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\PayPal.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.csproj.AssemblyReference.cache
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.AssemblyInfoInputs.cache
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.AssemblyInfo.cs
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.csproj.CoreCompileInputs.cache
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.MvcApplicationPartsAssemblyInfo.cache
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.RazorAssemblyInfo.cache
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.RazorAssemblyInfo.cs
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets\msbuild.OnlineMedicine.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets\msbuild.build.OnlineMedicine.props
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OnlineMedicine.props
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OnlineMedicine.props
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets.pack.json
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets.build.json
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\staticwebassets.development.json
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\scopedcss\bundle\OnlineMedicine.styles.css
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\scopedcss\projectbundle\OnlineMedicine.bundle.scp.css
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.csproj.CopyComplete
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\refint\OnlineMedicine.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.pdb
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\OnlineMedicine.genruntimeconfig.cache
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\obj\Debug\net6.0\ref\OnlineMedicine.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\EPPlus.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\EPPlus.Interfaces.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\System.Text.Json.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+D:\FPTU\Hocki5\PRN211\ProjectG6\Clone2\online-medicine\SE1735-G6\OnlineMedicine\OnlineMedicine\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll

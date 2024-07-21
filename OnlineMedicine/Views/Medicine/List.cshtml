@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "Category";
+}
+
+<h1>All Medicines</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+    <a href="/Medicine/ExportToExcel" class="btn btn-primary" onclick="confirmDownload(event)">Export to Excel</a>
+</p>
+
+@{
+    <table class="table" id="medicinesTable">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Image</th>
+                <th>Category</th>
+                <th>Type</th>
+                <th>Country</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>ExpiredDate</th>
+                <th>MinAge</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody id="tableBody">
+            
+        </tbody>
+    </table>
+}
+
+@section Scripts {
+
+    <script>
+        function confirmDownload(event) {
+            event.preventDefault(); // Prevent the default action of the anchor tag
+            var userConfirmed = confirm("Do you want to download the Excel file?");
+            if (userConfirmed) {
+                window.location.href = event.target.href; // Redirect to the URL if confirmed
+            }
+        }
+    </script>
+}

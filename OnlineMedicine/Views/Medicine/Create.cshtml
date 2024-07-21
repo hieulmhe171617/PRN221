@@ -1,0 +1,94 @@
+﻿@model OnlineMedicine.Models.Medicine
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Medicine</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <h1>@ViewBag.Error</h1>
+        <form asp-action="Create" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input type="text" required name="name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Category" class="control-label"></label>
+                <select name="category" class="form-control">
+                    @foreach (Category c in ViewBag.category)
+                    {
+                        <option value="@c.Id" >@c.Name</option>
+                    }
+                    
+               </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input name="price" required type="number" class="form-control" />
+                <span asp-validation-for="ExpiredDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Quantity"required class="control-label"></label>
+                <input name="quantity" required type="number" class="form-control" />
+                <span asp-validation-for="ExpiredDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ExpiredDate" class="control-label"></label>
+                <input name="expriedDate" required type="date" class="form-control" />
+                <span asp-validation-for="ExpiredDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Image" class="control-label"></label>
+                <input type="text" name="image" required class="form-control" />
+                <span asp-validation-for="Image" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Descript" class="control-label"></label>
+                <input type="text" required name="descript" class="form-control" />
+                <span asp-validation-for="Descript" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MinAge" class="control-label"></label>
+                <input type="number" required name="minAge" class="form-control" />
+                <span asp-validation-for="MinAge" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Type" class="control-label"></label>
+                <select name="typeId" class="form-control">
+                    @foreach (var c in ViewBag.type)
+                    {
+                        <option value="@c.Id" >@c.Name</option>
+                    }
+
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Country" class="control-label"></label>
+                <select name="country" class="form-control">
+                    @foreach (Country c in ViewBag.country)
+                    {
+                        <option value="@c.Id" >@c.Name</option>
+                    }
+                </select>
+            </div>
+            <div class="form-group">
+                <br/>
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
