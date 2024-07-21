@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FPTU\\Hocki5\\PRN211\\ProjectG6\\Clone2\\online-medicine\\SE1735-G6\\OnlineMedicine\\OnlineMedicine\\OnlineMedicine.csproj": {}
+    "D:\\FPTU\\Hocki7\\PRN221\\Project\\Github\\PRN221\\OnlineMedicine\\OnlineMedicine.csproj": {}
   },
   "projects": {
-    "D:\\FPTU\\Hocki5\\PRN211\\ProjectG6\\Clone2\\online-medicine\\SE1735-G6\\OnlineMedicine\\OnlineMedicine\\OnlineMedicine.csproj": {
+    "D:\\FPTU\\Hocki7\\PRN221\\Project\\Github\\PRN221\\OnlineMedicine\\OnlineMedicine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPTU\\Hocki5\\PRN211\\ProjectG6\\Clone2\\online-medicine\\SE1735-G6\\OnlineMedicine\\OnlineMedicine\\OnlineMedicine.csproj",
+        "projectUniqueName": "D:\\FPTU\\Hocki7\\PRN221\\Project\\Github\\PRN221\\OnlineMedicine\\OnlineMedicine.csproj",
         "projectName": "OnlineMedicine",
-        "projectPath": "D:\\FPTU\\Hocki5\\PRN211\\ProjectG6\\Clone2\\online-medicine\\SE1735-G6\\OnlineMedicine\\OnlineMedicine\\OnlineMedicine.csproj",
+        "projectPath": "D:\\FPTU\\Hocki7\\PRN221\\Project\\Github\\PRN221\\OnlineMedicine\\OnlineMedicine.csproj",
         "packagesPath": "C:\\Users\\84338\\.nuget\\packages\\",
-        "outputPath": "D:\\FPTU\\Hocki5\\PRN211\\ProjectG6\\Clone2\\online-medicine\\SE1735-G6\\OnlineMedicine\\OnlineMedicine\\obj\\",
+        "outputPath": "D:\\FPTU\\Hocki7\\PRN221\\Project\\Github\\PRN221\\OnlineMedicine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\84338\\AppData\\Roaming\\NuGet\\NuGet.Config",

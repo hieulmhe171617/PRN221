@@ -5,12 +5,31 @@
 }
 
 <h1>Create</h1>
-
+<div>
+    @if (!string.IsNullOrEmpty(ViewBag.Success))
+    {
+        <div class="alert alert-success">@ViewBag.Success</div>
+    }
+    @if (!string.IsNullOrEmpty(ViewBag.Error))
+    {
+        <div class="alert alert-danger">@ViewBag.Error</div>
+    }
+</div>
 <h4>Medicine</h4>
+<form asp-action="Import" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label for="excelFile">Import Excel File</label>
+        <input type="file" name="excelFile" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <br />
+        <input type="submit" value="Import" class="btn btn-primary" />
+    </div>
+</form>
 <hr />
 <div class="row">
     <div class="col-md-4">
-        <h1>@ViewBag.Error</h1>
+       
         <form asp-action="Create" method="post">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
@@ -23,10 +42,10 @@
                 <select name="category" class="form-control">
                     @foreach (Category c in ViewBag.category)
                     {
-                        <option value="@c.Id" >@c.Name</option>
+                        <option value="@c.Id">@c.Name</option>
                     }
-                    
-               </select>
+
+                </select>
             </div>
             <div class="form-group">
                 <label asp-for="Price" class="control-label"></label>
@@ -34,7 +53,7 @@
                 <span asp-validation-for="ExpiredDate" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Quantity"required class="control-label"></label>
+                <label asp-for="Quantity" required class="control-label"></label>
                 <input name="quantity" required type="number" class="form-control" />
                 <span asp-validation-for="ExpiredDate" class="text-danger"></span>
             </div>
@@ -63,7 +82,7 @@
                 <select name="typeId" class="form-control">
                     @foreach (var c in ViewBag.type)
                     {
-                        <option value="@c.Id" >@c.Name</option>
+                        <option value="@c.Id">@c.Name</option>
                     }
 
                 </select>
@@ -73,12 +92,12 @@
                 <select name="country" class="form-control">
                     @foreach (Country c in ViewBag.country)
                     {
-                        <option value="@c.Id" >@c.Name</option>
+                        <option value="@c.Id">@c.Name</option>
                     }
                 </select>
             </div>
             <div class="form-group">
-                <br/>
+                <br />
                 <input type="submit" value="Create" class="btn btn-primary" />
             </div>
         </form>
@@ -90,5 +109,7 @@
 </div>
 
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
 }

@@ -278,5 +278,71 @@ namespace OnlineMedicine.Controllers
 
             return Ok(medicines);
         }
+
+
+
+
+        [HttpPost]
+        public async Task<IActionResult> Import(IFormFile excelFile)
+        {
+            ExcelPackage.LicenseContext = LicenseContext.Commercial;
+            if (excelFile == null || excelFile.Length == 0)
+            {
+                ViewBag.Error = "Please select a valid Excel file.";
+                return View("Create");
+            }
+
+            try
+            {
+                using (var stream = new MemoryStream())
+                {
+                    await excelFile.CopyToAsync(stream);
+                    using (var package = new ExcelPackage(stream))
+                    {
+                        var worksheet = package.Workbook.Worksheets.FirstOrDefault();
+                        if (worksheet == null)
+                        {
+                            ViewBag.Error = "Invalid Excel file format.";
+                            return View("Create");
+                        }
+
+                        for (int row = 2; row <= worksheet.Dimension.Rows; row++)
+                        {
+                            var medicine = new Medicine
+                            {
+                                Name = worksheet.Cells[row, 1].Value?.ToString(),
+                                Image = worksheet.Cells[row, 2].Value?.ToString(),
+                                CategoryId = int.Parse(worksheet.Cells[row, 3].Value?.ToString()),
+                                TypeId = int.Parse(worksheet.Cells[row, 4].Value?.ToString()),
+                                CountryId = int.Parse(worksheet.Cells[row, 5].Value?.ToString()),
+                                Price = decimal.Parse(worksheet.Cells[row, 6].Value?.ToString()),
+                                Quantity = int.Parse(worksheet.Cells[row, 7].Value?.ToString()),
+                                ExpiredDate = DateTime.Parse(worksheet.Cells[row, 8].Value?.ToString()),
+                                MinAge = int.Parse(worksheet.Cells[row, 9].Value?.ToString())
+                            };
+
+                            _context.Medicines.Add(medicine);
+                        }
+                        await _context.SaveChangesAsync();
+                    }
+                }
+                ViewBag.category = _context.Categories.ToList();
+                ViewBag.type = _context.Types.ToList();
+                ViewBag.country = _context.Countries.ToList();
+                ViewBag.Success = "Import successful!";
+                return View("Create");
+            }
+            catch (Exception ex)
+            {
+                ViewBag.category = _context.Categories.ToList();
+                ViewBag.type = _context.Types.ToList();
+                ViewBag.country = _context.Countries.ToList();
+                ViewBag.Error = $"Import failed: {ex.Message}";
+                return View("Create");
+            }
+        }
     }
+
+
+
 }
