@@ -227,6 +227,8 @@ namespace OnlineMedicine.Controllers
                 worksheet.Cells[1, 7].Value = "Quantity";
                 worksheet.Cells[1, 8].Value = "ExpiredDate";
                 worksheet.Cells[1, 9].Value = "MinAge";
+               
+
 
                 // Adding data
                 int row = 2;
@@ -241,6 +243,7 @@ namespace OnlineMedicine.Controllers
                     worksheet.Cells[row, 7].Value = item.Quantity;
                     worksheet.Cells[row, 8].Value = item.ExpiredDate.Value.ToString("dd/MM/yyyy");
                     worksheet.Cells[row, 9].Value = item.MinAge;
+            
                     row++;
                 }
 
@@ -318,7 +321,8 @@ namespace OnlineMedicine.Controllers
                                 Price = decimal.Parse(worksheet.Cells[row, 6].Value?.ToString()),
                                 Quantity = int.Parse(worksheet.Cells[row, 7].Value?.ToString()),
                                 ExpiredDate = DateTime.Parse(worksheet.Cells[row, 8].Value?.ToString()),
-                                MinAge = int.Parse(worksheet.Cells[row, 9].Value?.ToString())
+                                MinAge = int.Parse(worksheet.Cells[row, 9].Value?.ToString()),
+                                Descript = worksheet.Cells[row, 10].Value?.ToString(),
                             };
 
                             _context.Medicines.Add(medicine);
