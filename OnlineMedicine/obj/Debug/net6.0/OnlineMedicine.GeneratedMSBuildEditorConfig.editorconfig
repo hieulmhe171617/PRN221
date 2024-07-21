@@ -9,129 +9,129 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = OnlineMedicine
 build_property.RootNamespace = OnlineMedicine
-build_property.ProjectDir = C:\Users\ADMIN\Desktop\PRN221\PRN221\OnlineMedicine\
+build_property.ProjectDir = D:\FPTU\Hocki7\PRN221\Project\Github\PRN221_2\PRN221\OnlineMedicine\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ADMIN\Desktop\PRN221\PRN221\OnlineMedicine
+build_property.MSBuildProjectDirectory = D:\FPTU\Hocki7\PRN221\Project\Github\PRN221_2\PRN221\OnlineMedicine
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ADMIN/Desktop/PRN221/PRN221/OnlineMedicine/Views/Account/Create.cshtml]
+[D:/FPTU/Hocki7/PRN221/Project/Github/PRN221_2/PRN221/OnlineMedicine/Views/Account/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRN221/PRN221/OnlineMedicine/Views/Account/Delete.cshtml]
+[D:/FPTU/Hocki7/PRN221/Project/Github/PRN221_2/PRN221/OnlineMedicine/Views/Account/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRN221/PRN221/OnlineMedicine/Views/Account/Details.cshtml]
+[D:/FPTU/Hocki7/PRN221/Project/Github/PRN221_2/PRN221/OnlineMedicine/Views/Account/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRN221/PRN221/OnlineMedicine/Views/Account/Edit.cshtml]
+[D:/FPTU/Hocki7/PRN221/Project/Github/PRN221_2/PRN221/OnlineMedicine/Views/Account/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRN221/PRN221/OnlineMedicine/Views/Account/Index.cshtml]
+[D:/FPTU/Hocki7/PRN221/Project/Github/PRN221_2/PRN221/OnlineMedicine/Views/Account/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRN221/PRN221/OnlineMedicine/Views/Account/Login.cshtml]
+[D:/FPTU/Hocki7/PRN221/Project/Github/PRN221_2/PRN221/OnlineMedicine/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRN221/PRN221/OnlineMedicine/Views/Account/Register.cshtml]
+[D:/FPTU/Hocki7/PRN221/Project/Github/PRN221_2/PRN221/OnlineMedicine/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRN221/PRN221/OnlineMedicine/Views/Cart/CheckOut.cshtml]
+[D:/FPTU/Hocki7/PRN221/Project/Github/PRN221_2/PRN221/OnlineMedicine/Views/Cart/CheckOut.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDaGVja091dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRN221/PRN221/OnlineMedicine/Views/Cart/CheckOutInfo.cshtml]
+[D:/FPTU/Hocki7/PRN221/Project/Github/PRN221_2/PRN221/OnlineMedicine/Views/Cart/CheckOutInfo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDaGVja091dEluZm8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRN221/PRN221/OnlineMedicine/Views/Cart/Details.cshtml]
+[D:/FPTU/Hocki7/PRN221/Project/Github/PRN221_2/PRN221/OnlineMedicine/Views/Cart/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRN221/PRN221/OnlineMedicine/Views/Cart/FailureView.cshtml]
+[D:/FPTU/Hocki7/PRN221/Project/Github/PRN221_2/PRN221/OnlineMedicine/Views/Cart/FailureView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxGYWlsdXJlVmlldy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRN221/PRN221/OnlineMedicine/Views/Cart/SuccessView.cshtml]
+[D:/FPTU/Hocki7/PRN221/Project/Github/PRN221_2/PRN221/OnlineMedicine/Views/Cart/SuccessView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxTdWNjZXNzVmlldy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRN221/PRN221/OnlineMedicine/Views/Home/About.cshtml]
+[D:/FPTU/Hocki7/PRN221/Project/Github/PRN221_2/PRN221/OnlineMedicine/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRN221/PRN221/OnlineMedicine/Views/Home/Index.cshtml]
+[D:/FPTU/Hocki7/PRN221/Project/Github/PRN221_2/PRN221/OnlineMedicine/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRN221/PRN221/OnlineMedicine/Views/Home/Privacy.cshtml]
+[D:/FPTU/Hocki7/PRN221/Project/Github/PRN221_2/PRN221/OnlineMedicine/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRN221/PRN221/OnlineMedicine/Views/Medicine/Create.cshtml]
+[D:/FPTU/Hocki7/PRN221/Project/Github/PRN221_2/PRN221/OnlineMedicine/Views/Medicine/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRN221/PRN221/OnlineMedicine/Views/Medicine/Delete.cshtml]
+[D:/FPTU/Hocki7/PRN221/Project/Github/PRN221_2/PRN221/OnlineMedicine/Views/Medicine/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRN221/PRN221/OnlineMedicine/Views/Medicine/Details.cshtml]
+[D:/FPTU/Hocki7/PRN221/Project/Github/PRN221_2/PRN221/OnlineMedicine/Views/Medicine/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRN221/PRN221/OnlineMedicine/Views/Medicine/Edit.cshtml]
+[D:/FPTU/Hocki7/PRN221/Project/Github/PRN221_2/PRN221/OnlineMedicine/Views/Medicine/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRN221/PRN221/OnlineMedicine/Views/Medicine/Index.cshtml]
+[D:/FPTU/Hocki7/PRN221/Project/Github/PRN221_2/PRN221/OnlineMedicine/Views/Medicine/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRN221/PRN221/OnlineMedicine/Views/Medicine/List.cshtml]
+[D:/FPTU/Hocki7/PRN221/Project/Github/PRN221_2/PRN221/OnlineMedicine/Views/Medicine/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRN221/PRN221/OnlineMedicine/Views/OrderDetails/Details.cshtml]
+[D:/FPTU/Hocki7/PRN221/Project/Github/PRN221_2/PRN221/OnlineMedicine/Views/OrderDetails/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRN221/PRN221/OnlineMedicine/Views/OrderDetails/Index.cshtml]
+[D:/FPTU/Hocki7/PRN221/Project/Github/PRN221_2/PRN221/OnlineMedicine/Views/OrderDetails/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRN221/PRN221/OnlineMedicine/Views/Order/Index.cshtml]
+[D:/FPTU/Hocki7/PRN221/Project/Github/PRN221_2/PRN221/OnlineMedicine/Views/Order/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRN221/PRN221/OnlineMedicine/Views/Order/OrderList.cshtml]
+[D:/FPTU/Hocki7/PRN221/Project/Github/PRN221_2/PRN221/OnlineMedicine/Views/Order/OrderList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcT3JkZXJMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRN221/PRN221/OnlineMedicine/Views/Shared/Error.cshtml]
+[D:/FPTU/Hocki7/PRN221/Project/Github/PRN221_2/PRN221/OnlineMedicine/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRN221/PRN221/OnlineMedicine/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/FPTU/Hocki7/PRN221/Project/Github/PRN221_2/PRN221/OnlineMedicine/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRN221/PRN221/OnlineMedicine/Views/_ViewImports.cshtml]
+[D:/FPTU/Hocki7/PRN221/Project/Github/PRN221_2/PRN221/OnlineMedicine/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRN221/PRN221/OnlineMedicine/Views/_ViewStart.cshtml]
+[D:/FPTU/Hocki7/PRN221/Project/Github/PRN221_2/PRN221/OnlineMedicine/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRN221/PRN221/OnlineMedicine/Views/Shared/_Layout.cshtml]
+[D:/FPTU/Hocki7/PRN221/Project/Github/PRN221_2/PRN221/OnlineMedicine/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ymyq5otjj4

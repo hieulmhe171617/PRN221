@@ -8,7 +8,10 @@
 <p>
     <a style="text-decoration:none" href="/Home">Home</a> /
     <a style="text-decoration:none" href="/Medicine">Medicines List</a> /
-    <span>@m.Name</span>
+    @if (m.Name != null)
+    {
+        <span>@m.Name</span>
+    }
 </p>
 <h1>
 </h1>

@@ -123,27 +123,52 @@ namespace OnlineMedicine.Controllers
         public IActionResult Create(string name, int category, DateTime expriedDate, string image, string descript, int minAge,
             int typeId, int country, int price, int quantity)
         {
-            Medicine m = new Medicine();
-            m.Name = name;
-            m.CategoryId = category;
-            m.ExpiredDate = expriedDate;
-            m.Image = image;
-            m.Descript = descript;
-            m.MinAge = minAge;
-            m.TypeId = typeId;
-            m.Price = price;
-            m.Quantity = quantity;
-            m.CountryId = country;
-            _context.Medicines.Add(m);
-            if (_context.SaveChanges() > 0)
+            try
             {
-                ViewBag.Medicine = _context.Medicines.Include(x => x.Category).Include(x => x.Type).Include(x => x.Country).ToList();
-                _hubContext.Clients.All.SendAsync("LoadMedicines");
+                if (string.IsNullOrEmpty(image)) throw new Exception();
 
-                return View("List");
+                //xu ly image
+                int start = image.LastIndexOf("<img src=\"");
+                int end = image.LastIndexOf("\" alt=\"");
+                string imgLink = image.Substring(start + 10, end - (start + 10));
+                //
+                Medicine m = new Medicine();
+                m.Name = name;
+                m.CategoryId = category;
+                m.ExpiredDate = expriedDate;
+                m.Image = imgLink;
+                m.Descript = descript;
+                m.MinAge = minAge;
+                m.TypeId = typeId;
+                m.Price = price;
+                m.Quantity = quantity;
+                m.CountryId = country;
+                _context.Medicines.Add(m);
+                if (_context.SaveChanges() > 0)
+                {
+                    ViewBag.Medicine = _context.Medicines.Include(x => x.Category).Include(x => x.Type).Include(x => x.Country).ToList();
+                    _hubContext.Clients.All.SendAsync("LoadMedicines");
+                    return View("List");
+                }
+                else
+                {
+                    ViewBag.category = _context.Categories.ToList();
+                    ViewBag.type = _context.Types.ToList();
+                    ViewBag.country = _context.Countries.ToList();
+                    ViewBag.Error = "Create new failed";
+                    return View("Create");
+                }
+
             }
-            ViewBag.Error = "Create new failed";
-            return View("Create");
+            catch
+            {
+                ViewBag.category = _context.Categories.ToList();
+                ViewBag.type = _context.Types.ToList();
+                ViewBag.country = _context.Countries.ToList();
+                ViewBag.Error = "Create new failed";
+                return View("Create");
+            }
+
         }
         [Authorize(Roles = "Admin")]
         public IActionResult Edit(int mid)
@@ -163,12 +188,17 @@ namespace OnlineMedicine.Controllers
         public IActionResult Edit(string name, int category, DateTime expriedDate, string image, string descript, int minAge,
            int typeId, int country, decimal price, int quantity, int mid)
         {
+
+            //xu ly image
+            int start = image.LastIndexOf("<img src=\"");
+            int end = image.LastIndexOf("\" alt=\"");
+            string imgLink = image.Substring(start + 10, end - (start + 10));
             Medicine m = _context.Medicines.Include(x => x.Category)
                 .Include(x => x.Type).Include(x => x.Country).FirstOrDefault(x => x.Id == mid);
             m.Name = name;
             m.CategoryId = category;
             m.ExpiredDate = expriedDate;
-            m.Image = image;
+            m.Image = imgLink;
             m.Descript = descript;
             m.MinAge = minAge;
             m.TypeId = typeId;
@@ -227,7 +257,7 @@ namespace OnlineMedicine.Controllers
                 worksheet.Cells[1, 7].Value = "Quantity";
                 worksheet.Cells[1, 8].Value = "ExpiredDate";
                 worksheet.Cells[1, 9].Value = "MinAge";
-               
+
 
 
                 // Adding data
@@ -243,7 +273,7 @@ namespace OnlineMedicine.Controllers
                     worksheet.Cells[row, 7].Value = item.Quantity;
                     worksheet.Cells[row, 8].Value = item.ExpiredDate.Value.ToString("dd/MM/yyyy");
                     worksheet.Cells[row, 9].Value = item.MinAge;
-            
+
                     row++;
                 }
 

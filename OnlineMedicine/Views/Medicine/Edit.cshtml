@@ -49,7 +49,9 @@
             <div class="form-group">
                 <label asp-for="Image" class="control-label"></label>
                 <a href="https://imgbb.com/" target="_blank">Get link of image</a>
-                <input type="text" name="image" required class="form-control" id="imageUrl" />
+                <textarea name="image" class="form-control" id="imageUrl">
+                <img src="@ViewBag.Medicine.Image" alt="alt" />
+                </textarea>
                 <span asp-validation-for="Image" class="text-danger" id="error-message"></span>
             </div>
             <div class="form-group">
@@ -103,21 +105,104 @@
     }
 
 
-    <script>
-        document.getElementById("imageForm").addEventListener("submit", function (event) {
-            const url = document.getElementById("imageUrl").value;
-            const errorMessage = document.getElementById("error-message");
+    <script src="https://cdn.tiny.cloud/1/3wv6oxgsvjimdah8bfe0t3g2w0ftpyzxcwylgy7txp6jbtj8/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
 
-            if (!isValidImageUrl(url)) {
-                event.preventDefault();
-                errorMessage.textContent = "Please input link of image";
-            } else {
-                errorMessage.textContent = "";
+    <script>
+        tinymce.init({
+            selector: 'textarea#imageUrl',
+            plugins: 'image',
+            toolbar: 'image',
+            menubar: false,
+            forced_root_block: '',
+            force_br_newlines: false,
+            force_p_newlines: false,
+            content_style: 'body { font-family: Helvetica, Arial, sans-serif; font-size: 14px }',
+            setup: function (editor) {
+                editor.on('keydown', function (e) {
+                    e.preventDefault();
+                });
+            },
+            file_picker_types: 'image',
+            file_picker_callback: function (cb) {
+                var input = document.createElement('input');
+                input.setAttribute('type', 'file');
+                input.setAttribute('accept', 'image/*');
+
+                input.onchange = function () {
+                    var file = this.files[0];
+
+                    if (!file) {
+                        return;
+                    }
+
+                    resizeAndProcessImage(file, cb);
+                };
+
+                input.click();
             }
         });
 
-        function isValidImageUrl(url) {
-            return url.match(/\.(jpeg|jpg|gif|png)$/) != null;
+
+        function resizeAndProcessImage(file, cb) {
+            if (file.size > 2 * 1024 * 1024) { // 2MB
+                resizeImage(file, 500, function (resizedFile) {
+                    processResizedFile(resizedFile, cb);
+                });
+            } else {
+                processResizedFile(file, cb);
+            }
+        }
+
+        function resizeImage(file, maxSizeKB, callback) {
+            var reader = new FileReader();
+            reader.onload = function (e) {
+                var img = new Image();
+                img.src = e.target.result;
+
+                img.onload = function () {
+                    var canvas = document.createElement('canvas');
+                    var ctx = canvas.getContext('2d');
+
+                    var maxWidth = img.width;
+                    var maxHeight = img.height;
+
+                    var ratio = 1;
+                    if (img.width > maxWidth) {
+                        ratio = maxWidth / img.width;
+                    } else if (img.height > maxHeight) {
+                        ratio = maxHeight / img.height;
+                    }
+
+                    canvas.width = img.width * ratio;
+                    canvas.height = img.height * ratio;
+
+                    ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
+
+                    canvas.toBlob(function (blob) {
+                        var resizedFile = new File([blob], file.name, { type: file.type });
+                        callback(resizedFile);
+                    }, file.type, maxSizeKB / 1000);
+                };
+            };
+
+            reader.readAsDataURL(file);
+        }
+
+        function processResizedFile(resizedFile, cb) {
+            var id = 'blobid' + (new Date()).getTime();
+            var blobCache = tinymce.activeEditor.editorUpload.blobCache;
+            var reader = new FileReader();
+
+            reader.onload = function () {
+                var base64 = reader.result.split(',')[1];
+                var blobInfo = blobCache.create(id, resizedFile, base64);
+                blobCache.add(blobInfo);
+
+                cb(blobInfo.blobUri(), { title: resizedFile.name });
+            };
+
+            reader.readAsDataURL(resizedFile);
         }
     </script>
+
 }
